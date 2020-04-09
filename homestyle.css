@@ -79,6 +79,7 @@ ul li:hover ul li{
 	left: 30%;
 	transform: translate(-50%,-50%);
 	margin-left: 2vw;
+	font-size:1.5vw;
 }
 .pic{
 
