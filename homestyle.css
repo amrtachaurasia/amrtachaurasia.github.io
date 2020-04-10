@@ -87,10 +87,20 @@ ul li:hover ul li{
 	top: 60vh;
 	left: 80vw;
 	transform: translate(-50%,-50%);
-	width: 27vw;
-	height:70vh; 
+	max-width: 27vw;
+	max-height:70vh; 
 	object-fit: cover;
 }
+.back{
+	text-decoration: none;
+	color: white;
+	position: absolute;
+	top: 6vh;
+	left: 6vw;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	font-size: 3vw;
+	}
 
 .footer{
 	text-align: center;
