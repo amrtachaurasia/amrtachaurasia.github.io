@@ -71,6 +71,7 @@ ul li:hover ul li{
 	transform: translate(-50%,-50%);
 	text-align: center;
 	font-size: 3vw;
+	font-family: "Tangerine", serif;
 }
 .active{
 	background-color: rgb(236, 198, 217);
@@ -186,4 +187,5 @@ ul li:hover ul li{
 .footer{
 	text-align: center;
 	background-color: rgb(217, 217, 217);
+	font-size: 1.2vw;
 }
