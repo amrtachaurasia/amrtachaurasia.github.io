@@ -46,10 +46,11 @@ ul li{
 	/*margin-right: 3px;*/
 }
 ul li a{
-	color: black;
 	display: block;
 	padding: 0.7vh;
 	transition: 0.5s ease;
+	color: rgb(102, 224, 255);
+	text-shadow: 2px 1px black;
 }
 ul li a:hover{
 	background-color: white;
@@ -80,10 +81,3 @@ ul li:hover ul li{
 .title h2{
 	font-size: 3vw;
 }
-
-
-/*
-.footer{
-	text-align: center;
-	background-color: rgb(217, 217, 217);
-}*/
